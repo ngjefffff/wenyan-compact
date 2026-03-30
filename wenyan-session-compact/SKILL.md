@@ -6,7 +6,7 @@ description: |
   compression medium. Compresses conversation chains into dense snapshots (册 cè)
   and distills them into persistent global state (经 jīng) that pre-fills the next
   session — no re-derivation needed.
-  Trigger: session end · /session-manager · cognitive snapshot requested · project init
+  Trigger: session end · /wenyan-session-compact · cognitive snapshot requested · project init
 allowed-tools:
   - Bash
   - Read

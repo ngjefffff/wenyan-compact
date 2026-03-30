@@ -118,7 +118,7 @@ Restart Claude Code. From the next session, context loads automatically.
 **At session end**, trigger the skill:
 
 ```
-/session-manager
+/wenyan-session-compact
 ```
 
 Claude will write the 冊 (session snapshot in wenyan), then distill new decisions into the 经 (global state). Next session, everything is pre-loaded.
